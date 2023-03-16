@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\facultate\sem2\POO\LAB1\ex3\main.cpp(37,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ex3.vcxproj -> D:\facultate\sem2\POO\LAB1\ex3\x64\Debug\ex3.exe
