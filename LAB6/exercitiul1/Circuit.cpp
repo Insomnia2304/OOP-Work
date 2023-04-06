@@ -88,7 +88,7 @@ void Circuit::ShowFinalRanks()
 	for (j = 1; i < carsIndex; j++, i++)
 	{
 		if (i && time[i] == time[i - 1]) j--;
-		cout << "Masina " << cars[i]->GetcarModel() << " a terimat cursa in " << time[i] << " ore, pe locul " << j << "!\n";
+		cout << "Masina " << cars[i]->GetcarModel() << " a terminat cursa in " << time[i] << " ore, pe locul " << j << "!\n";
 	}
 }
 
