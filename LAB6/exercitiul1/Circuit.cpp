@@ -11,6 +11,8 @@ Circuit::Circuit()
 
 Circuit::~Circuit()
 {
+    for (int i = 0; i < carsIndex; i++)
+	 delete cars[i];
 	delete[] cars;
     delete[] time;
 }
