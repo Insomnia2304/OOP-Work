@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\facultate\sem2\POO\LAB7\ex2\main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ex2.vcxproj -> D:\facultate\sem2\POO\LAB7\ex2\x64\Debug\ex2.exe
