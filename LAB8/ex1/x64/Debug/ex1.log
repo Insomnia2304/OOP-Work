@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\facultate\sem2\POO\LAB8\ex1\main.cpp(33,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\sem2\POO\LAB8\ex1\main.cpp(34,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\sem2\POO\LAB8\ex1\main.cpp(38,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\facultate\sem2\POO\LAB8\ex1\main.cpp(50,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ex1.vcxproj -> D:\facultate\sem2\POO\LAB8\ex1\x64\Debug\ex1.exe
