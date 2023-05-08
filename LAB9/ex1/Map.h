@@ -26,7 +26,7 @@ public:
 		return array[size - 1].value;
 	}
 	Obiect<K, V>* begin() { return &array[0]; }
-	Obiect<K, V>* end() { if (size > 0) return &array[size]; }
+	Obiect<K, V>* end() { return &array[size]; }
 	void Set(K key, V value) {
 		for (int i = 0; i < size; i++)
 		{
