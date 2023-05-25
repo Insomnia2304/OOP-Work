@@ -1,0 +1,5 @@
+﻿  sol_gresita.cpp
+D:\facultate\sem2\poo\lab11\sol_gresita\sol_gresita.cpp(19,3): error C3861: 'cout': identifier not found
+D:\facultate\sem2\poo\lab11\sol_gresita\sol_gresita.cpp(20,2): error C2065: 'cout': undeclared identifier
+D:\facultate\sem2\poo\lab11\sol_gresita\sol_gresita.cpp(20,2): error C3861: 'cout': identifier not found
+D:\facultate\sem2\poo\lab11\sol_gresita\sol_gresita.cpp(19,3): error C2065: 'cout': undeclared identifier
